@@ -30,6 +30,8 @@
         <module>distributed-lock</module>
         <module>sso</module>
         <module>spring-cloud-security</module>
+        <module>jetcache</module>
+        <module>mybatis-plus</module>
 
     </modules>
     <packaging>pom</packaging>
