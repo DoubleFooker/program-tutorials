@@ -32,6 +32,7 @@
         <module>spring-cloud-security</module>
         <module>jetcache</module>
         <module>mybatis-plus</module>
+        <module>cqrs</module>
 
     </modules>
     <packaging>pom</packaging>
