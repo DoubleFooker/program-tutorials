@@ -33,6 +33,9 @@
         <module>jetcache</module>
         <module>mybatis-plus</module>
         <module>cqrs</module>
+        <module>resilience4j</module>
+        <module>redis-mock</module>
+        <module>mockito</module>
 
     </modules>
     <packaging>pom</packaging>
