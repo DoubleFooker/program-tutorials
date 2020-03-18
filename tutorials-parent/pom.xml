@@ -33,6 +33,11 @@
         <module>jetcache</module>
         <module>mybatis-plus</module>
         <module>cqrs</module>
+        <module>resilience4j</module>
+        <module>redis-mock</module>
+        <module>mockito</module>
+        <module>apache-shenyu</module>
+        <module>jexl-demo</module>
 
     </modules>
     <packaging>pom</packaging>
